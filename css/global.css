@@ -433,7 +433,7 @@ article a{
 6. Nav/Footer Styles
 ------------------------------------------------
 ----------------------------------------------*/
-.nav {
+.main_nav {
 	padding-top: 5px;
 	padding-bottom: 5px;
 	background-color: #3E3E3E;
@@ -445,11 +445,23 @@ article a{
 	background-color: #F6F6F6;
 }
 
+.main_nav__txt{
+	font-size: 14px;
+	font-weight: 400;
+	margin: 10px auto auto 10px;
+}
+
 .nav__txt{
 	font-size: 14px;
 	font-weight: 400;
 	margin-left: 60px;
 	margin-top: 10px;
+}
+
+.icon_repad{
+	position: relative;
+	top: 5px;
+	margin-left: 40px;
 }
 
 
@@ -614,5 +626,13 @@ footer{
 
 	.margin--element_top_lg{
 		margin-top: 80px;
+	}
+
+	.icon_repad{
+		margin-left: 10px;
+	}
+
+	.main_nav__txt{
+		margin: 10px 20px auto 10px;
 	}
 }
