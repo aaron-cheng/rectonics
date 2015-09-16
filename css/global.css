@@ -439,6 +439,12 @@ article a{
 	background-color: #3E3E3E;
 }
 
+.sub_nav {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: #F6F6F6;
+}
+
 .nav__txt{
 	font-size: 14px;
 	font-weight: 400;
