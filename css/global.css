@@ -458,6 +458,13 @@ article a{
 	margin-top: 10px;
 }
 
+.nav__product_title{
+	font-size: 16px;
+	font-weight: 700;
+
+	margin-top: 8px;
+}
+
 .icon_repad{
 	position: relative;
 	top: 5px;
