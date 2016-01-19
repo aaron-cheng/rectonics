@@ -643,6 +643,26 @@ footer{
 		margin: 10px 20px auto 10px;
 	}
 }
+
+@media (min-width: 992px) {
+	.recpadx_list{
+		margin-left: -20px;
+	}
+
+}
+
+@media (min-width: 1200px) {
+	.recpadx_list{
+		margin-left: 60px;
+	}
+
+
+}
+
+
+.recpadx_list{
+	font-size: 18px;
+}
 /*----------------------------------------------
 ------------------------------------------------
 8. Form
