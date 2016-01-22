@@ -437,12 +437,22 @@ article a{
 	padding-top: 5px;
 	padding-bottom: 5px;
 	background-color: #3E3E3E;
+/*	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	z-index: 999;*/
 }
 
 .sub_nav {
 	padding-top: 5px;
 	padding-bottom: 5px;
 	background-color: #F6F6F6;
+/*	position: fixed;
+	top: 55px;
+	left: 0;
+	right: 0;
+	z-index: 999;*/
 }
 
 .main_nav__txt{
