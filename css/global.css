@@ -1,10 +1,10 @@
 /*************************************************
 **************************************************
 
-Website Name: NYAR TAX
-Website URL: www.nyartax.com
+Website Name: Rectonics
+Website URL: www.rectonics.com
 Website Author: Aaron Cheng
-Author URL: chengfolio.com
+
 Copyright 2015. All Rights Reserved.
 
 Color Guide
@@ -370,6 +370,10 @@ article a{
 	padding-bottom: 80px;
 }
 
+.padding--element_top_md{
+	padding-top: 80px;
+}
+
 .padding--element_sm{
 	padding-top: 40px;
 	padding-bottom: 40px;
@@ -669,6 +673,16 @@ footer{
 
 }
 
+.icon--social{
+	width: 44px;
+	height: 44px;
+	margin-top: 40px;
+}
+
+.icon--social:hover { 
+    opacity: 0.9;
+    cursor: pointer;
+}
 
 .recpadx_list{
 	font-size: 18px;
